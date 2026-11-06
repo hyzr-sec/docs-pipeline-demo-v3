@@ -1,0 +1,7 @@
+{
+  "name": "docs-pipeline-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "./build.sh"
+  }
+}
